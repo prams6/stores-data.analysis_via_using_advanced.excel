@@ -58,6 +58,8 @@ However there can also be scenarios where we can might lack some amount of data;
 -Women are in the for the shopping, However to attract the male community: the initiation of ads, coupons and offers on our top contributing channels (Amazon, Myntra, Flipkart) would be beneficial .
 - The ads can be from the perspective to attract the male customers.
 
+Thank you 
+
 
 
 
