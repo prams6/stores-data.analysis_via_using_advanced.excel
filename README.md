@@ -34,7 +34,8 @@ Q3. THE ORDER STATUS: : 92% of the orders are delivered on time, and however the
 
 
 <h1><B> DATA VISUALISATION </B></H1>
-![vrinda store analysis dashboard](https://github.com/user-attachments/assets/b8076de1-3b54-4e47-ad97-df1beb631c66)
+
+![vrinda store analysis dashboard](https://github.com/user-attachments/assets/3bd3afdc-c640-4564-942d-479133235eea)
 
 
 
