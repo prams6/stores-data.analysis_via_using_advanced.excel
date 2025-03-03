@@ -9,5 +9,5 @@ Greetings, Respected Person
   While there was much understanding about the data, there were two tables; First one being  the table of **AGE** which had multiple age (numeric or metric value) which would not give a precise statistical calculation and also we had monthly table which we again had to sort efficiently.
   
  <h1><B> DATA PROCESSING </B></H1>
- <p1> BREAKING DOWN INTO METRICS </P1>
+ <p1> **BREAKING DOWN INTO METRICS** </P1>
  . we created a categorical table by using the **[IF FORMULA]** and categorised two values which was 
