@@ -39,6 +39,7 @@ Q3. What is the order status?
 Ans: 92% of the orders were delivered on time, while the remaining 8% consisted of canceled, returned, or refunded orders, which need further attention.
 
 By comparing gender and age with sales trends, we gained clarity on which segment contributes the most to revenue.
+FIG:
 ![image](https://github.com/user-attachments/assets/1d1a947e-a8d0-4390-99cf-c5c87ad48d7c)
 
 
