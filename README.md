@@ -37,13 +37,29 @@ Q3. THE ORDER STATUS: : 92% of the orders are delivered on time, and however the
 
 ![vrinda store analysis dashboard](https://github.com/user-attachments/assets/3bd3afdc-c640-4564-942d-479133235eea)
 
-- In the above visualisation the part of the <B> SLICER </B> plays a very vital role
+- In the above visualisation the part of a <B> SLICER </B> plays a very pivotal role [pun intended].
+- The visulaisation also has all differnt kinds of diagrams and charts which makes it more intersting and makes the reader feel unique about every perspective
+- All the charts add more points to the desicions making process.
 - For any non tech leaders it would be easy and a click to check the data through different quarters
 - There are three slicers and the values contains Category(Products), Month and Channels
 
 - As we can see in the above Dashboard: Amazon ranks the highest channel or the distributor contributng highly to the Store's revenue or profit rate.
 
-<h1><B> CONCLUSION </B></H1>
+<h1><B> CONCLUSION & ASSUMPTION </B></H1>
+-the top contributing states are Maharashtra, Uttarpradesh and Karnataka: Not forgetting that all these are metropolitian states
+- Women are more likely to buy compared to men according to the 65\ percentage rate.
+- However as we can see that the Adults Contribute the most (30-49 years of age) to the sales (50\%).
+
+ASSUMPTION </B></H1>
+However there can also be scenarios where we can might lack some amount of data; but if we can get more inisghts on more data variables or values we can get a more clearer vision.
+
+<h1><B> SUGGESTION TO THE TEAM</B></H1>
+-Targetting women customers from the top 3 listed states ; can lead to more growth, However we have to also focus on the men section; Because there is always a room for improvement
+-Women are in the for the shopping, However to attract the male community: the initiation of ads, coupons and offers on our top contributing channels (Amazon, Myntra, Flipkart) would be beneficial .
+- The ads can be from the perspective to attract the male customers.
+
+
+
 
 
 
