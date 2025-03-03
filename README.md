@@ -10,4 +10,4 @@ Greetings, Respected Person
   
  <h1><B> DATA PROCESSING </B></H1>
  <p1> BREAKING DOWN INTO METRICS </P1>
-  we created a categorical table by using the **[IF FORMULA]** and categorised two values which was 
+ . we created a categorical table by using the **[IF FORMULA]** and categorised two values which was 
