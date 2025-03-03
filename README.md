@@ -37,6 +37,14 @@ Q3. THE ORDER STATUS: : 92% of the orders are delivered on time, and however the
 
 ![vrinda store analysis dashboard](https://github.com/user-attachments/assets/3bd3afdc-c640-4564-942d-479133235eea)
 
+- In the above visualisation the part of the <B> SLICER </B> plays a very vital role
+- For any non tech leaders it would be easy and a click to check the data through different quarters
+- There are three slicers and the values contains Category(Products), Month and Channels
+
+- As we can see in the above Dashboard: Amazon ranks the highest channel or the distributor contributng highly to the Store's revenue or profit rate.
+
+<h1><B> CONCLUSION </B></H1>
+
 
 
 
