@@ -6,8 +6,9 @@ Greetings, Respected Person
 
   <h1><B> DATA MODELLING </B></H1>
   The data was analysed on Excel using advanced tools; Firstly we cleansed the data looking for no duplicates or blank columns, so there are no errors in the furture 
-  While there was much understanding about the data, there were two tables; First one being  the table of **AGE** which had multiple age (numeric or metric value) which would not give a precise statistical calculation and also we had monthly table which we again had to sort efficiently.
+  While there was much understanding about the data, there were two tables; First one being  the table of <B>AGE</B> which had multiple age (numeric or metric value) which would not give a precise statistical calculation and also we had monthly table which we again had to sort efficiently.
   
  <h1><B> DATA PROCESSING </B></H1>
- <p1> **BREAKING DOWN INTO METRICS** </P1>
- . we created a categorical table by using the **[IF FORMULA]** and categorised two values which was 
+ <p1> <B>BREAKING DOWN INTO METRICS</B></P1>
+ 
+ . we created a categorical table by using the <B>[IF FORMULA]</B> and categorised two values which was 
